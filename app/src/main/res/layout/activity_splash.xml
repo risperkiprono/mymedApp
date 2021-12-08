@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/purple_700"    android:orientation="vertical"
+    tools:context=".Splash">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="My Med"
+    android:gravity="center"
+    android:textColor="#fff"
+    android:textSize="18dp"
+    android:textStyle="bold"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kenya's Number one medical solution at home"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:textSize="18dp"
+
+        />
+</LinearLayout>
